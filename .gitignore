@@ -1,5 +1,9 @@
 *.class
 *.doc
 *.txt
-**/output
-**/main
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+!Makefile
+!CMakeFileList

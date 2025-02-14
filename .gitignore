@@ -1,4 +1,4 @@
 *.doc
 *.txt
-output
-main
+**/output
+**/main

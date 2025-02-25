@@ -43,4 +43,4 @@ int main() {
 
 // thread1 and thread2 affects atomic value. 
 //writer may not be linked with the last thread
-//UNCLEAR!
+

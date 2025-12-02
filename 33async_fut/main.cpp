@@ -34,6 +34,6 @@ int main()
 
 	f1.get();
 	std::cout << "value recieved using f2 future -" << f2.get() << std::endl;
-	std::cout << "value recieved using f2 future -" << f3.get() << std::endl;
+	std::cout << "value recieved using f3 future -" << f3.get() << std::endl;
 
 }
